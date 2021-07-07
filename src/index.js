@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Formulario from './components/Formulario.js';
+import App6 from './components/App6.js';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Formulario></Formulario>
+   <App6>
+
+   </App6>
   </React.StrictMode>,
   document.getElementById('root')
 );
